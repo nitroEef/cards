@@ -4,10 +4,10 @@ background-color: rgb(186, 211, 215);}
 .container{
     height:555px;
     width:75%;
-background-color: rgb(213, 238, 245);
+background-color: rgb(202, 225, 232);
 box-shadow: 1px 0px 3px 1px rgb(209, 213, 215);
 border-radius: 12px;
-margin:3% 12%;
+margin:3% 13%;
 position:relative}
   
 
@@ -20,7 +20,6 @@ background:rgb(242, 242, 242);
 border-radius: 3%;
  margin-left:auto;
 margin-right:auto;
-margin-bottom:6rem;
 position:relative;
 top:2rem
 }
@@ -49,7 +48,6 @@ h5{
     justify-content: center;
     font-size: small;
     font-family:Arial, Helvetica, sans-serif;
-    margin: 3%;
 }
 
 a{text-decoration: none;}
