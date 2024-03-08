@@ -8,11 +8,12 @@ background-color: rgb(186, 211, 215);}
 .container{
     height:555px;
     width:75%;
+    max-width: 75%;
 background-color: rgb(202, 225, 232);
 box-shadow: 1px 0px 3px 1px rgb(209, 213, 215);
 border-radius: 12px;
-margin:3% 13%;
-position:relative}
+margin:3% 13%;}
+/* position:relative} */
   
 
 
